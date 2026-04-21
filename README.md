@@ -1,1 +1,19 @@
 # DATA-ANALYSIS-WITH-COMPLEX-QUERIES
+
+COMPANY: CODETECH IT SOLUTIONS
+
+NAME: LAKSHMI G R
+
+INTERN ID: CTIS7587
+
+DOMAIN: SQL
+
+Duration: 4 WEEKS
+
+MENTER: NEELA SANTOSH
+
+##This task focuses on performing advanced data analysis using SQL techniques like window functions, subqueries, and Common Table Expressions (CTEs). It helps in organizing and analyzing large datasets to identify meaningful trends and patterns. Window functions are used to rank, compare, and calculate values across rows without grouping them. Subqueries allow filtering and analyzing data based on results from another query. CTEs improve readability and simplify complex queries by breaking them into logical parts. Overall, this task demonstrates how SQL can be used as a powerful tool for data-driven insights and decision-making.
+
+
+##OUTPUT
+
